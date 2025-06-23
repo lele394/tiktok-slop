@@ -1,0 +1,37 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.tiktok.com	TRUE	/	FALSE	1781775632	ttwid	1%7Cp7OMPEK262iEUcs-YaZfpIaQ-LoM2YpKyeYIhXnkDIg%7C1750671632%7C0b5bf251b99515b0fac38f14ccdaf1ca1942468db4fcb3fd25c139775463a223
+.tiktok.com	TRUE	/	TRUE	0	tt_csrf_token	HEJn7tmE-AeHpRpWx5R8k5r22R65K56ZAMAQ
+.tiktok.com	TRUE	/	TRUE	1766223694	tt_chain_token	drm7UuZlD5Cpi5VVkRLoMQ==
+.www.tiktok.com	TRUE	/	TRUE	1776591695	tiktok_webapp_theme_source	auto
+.www.tiktok.com	TRUE	/	TRUE	1776591695	tiktok_webapp_theme	dark
+.tiktok.com	TRUE	/	TRUE	1751535702	msToken	TMrUSSHu47WjvuyqXC2Ywhvni0lxjXpSTWj8qgtXIXcT2WaluQ21jI02x5AjBHketzhXayzD-VxIMZz1cuio-P92nC6sbNXk8OxTIJFkJqLaweXvTMQtXOzX1fEWTIs62txRrbfpzEU=
+.www.tiktok.com	TRUE	/	TRUE	1776591637	delay_guest_mode_vid	5
+.tiktok.com	TRUE	/	FALSE	1782207703	odin_tt	aabcba5357244cba5477ce039cdb3864f05e9720748a203f10ac6fc57e7538f1101df25cb6973090df4abb38464111a89de4bcc50fcbd5f20bf72d373dddaade45fe9651bb15e32a31d90f4444f6985b
+.tiktok.com	TRUE	/	TRUE	1755855643	passport_csrf_token	afd11d624f94620a13821491b2448955
+.tiktok.com	TRUE	/	TRUE	1755855643	passport_csrf_token_default	afd11d624f94620a13821491b2448955
+.tiktok.com	TRUE	/	TRUE	0	s_v_web_id	verify_mc8wp8mz_RTAgvW2m_tDHI_4jrE_BvnW_xH1CbXJjqwCX
+.tiktok.com	TRUE	/	TRUE	1755855671	multi_sids	7519077181114237970%3A6caa309e901531ced984ec2307e0ba37
+.tiktok.com	TRUE	/	TRUE	1755855671	cmpl_token	AgQQAPOqF-RO0rhnznxLPZ0r8ji4OWFSf4UhYN6g8Q
+.tiktok.com	TRUE	/	FALSE	1753263671	passport_auth_status	892a1dfd996c858079dc8b3079ca7218%2C
+.tiktok.com	TRUE	/	TRUE	1753263671	passport_auth_status_ss	892a1dfd996c858079dc8b3079ca7218%2C
+.tiktok.com	TRUE	/	TRUE	1781775701	sid_guard	6caa309e901531ced984ec2307e0ba37%7C1750671700%7C15551971%7CSat%2C+20-Dec-2025+09%3A41%3A11+GMT
+.tiktok.com	TRUE	/	TRUE	1766223672	uid_tt	3ee5f4e70db8db05bd6fb048a0bc0a040ba8d75c1384ab0228780dbd15c10b4a
+.tiktok.com	TRUE	/	TRUE	1766223672	uid_tt_ss	3ee5f4e70db8db05bd6fb048a0bc0a040ba8d75c1384ab0228780dbd15c10b4a
+.tiktok.com	TRUE	/	TRUE	1766223672	sid_tt	6caa309e901531ced984ec2307e0ba37
+.tiktok.com	TRUE	/	TRUE	1766223672	sessionid	6caa309e901531ced984ec2307e0ba37
+.tiktok.com	TRUE	/	TRUE	1766223672	sessionid_ss	6caa309e901531ced984ec2307e0ba37
+.tiktok.com	TRUE	/	TRUE	1766223672	sid_ucp_v1	1.0.0-KGYyMjRlMGUxNDA3NGVlMzcyMTE1ZDYyNTEzZjNlODNkNTE5MTRlZTkKGQiSiL2YvJvIrGgQ1MLkwgYYsws4CEASSAQQAxoCbXkiIDZjYWEzMDllOTAxNTMxY2VkOTg0ZWMyMzA3ZTBiYTM3
+.tiktok.com	TRUE	/	TRUE	1766223672	ssid_ucp_v1	1.0.0-KGYyMjRlMGUxNDA3NGVlMzcyMTE1ZDYyNTEzZjNlODNkNTE5MTRlZTkKGQiSiL2YvJvIrGgQ1MLkwgYYsws4CEASSAQQAxoCbXkiIDZjYWEzMDllOTAxNTMxY2VkOTg0ZWMyMzA3ZTBiYTM3
+.tiktok.com	TRUE	/	FALSE	1766223673	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1766223673	store-country-sign	MEIEDGlj6nSiZP6VDR_SZQQgfE4sMZPzZRCnINHRWapHh8C0jpriX2N6eoMe4lg0aoUEENfgYPGW2JNz5fxfIcxl-zE
+.tiktok.com	TRUE	/	FALSE	1766223673	store-country-code	jp
+.tiktok.com	TRUE	/	FALSE	1766223673	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1766223673	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1782207692	tt-target-idc-sign	caGzppcSNzQb6pyy6DbDBFJdV-qza7p1x77uh6hMOVZzU4BAZ2yind8oGOqwARJjpyIoPwKQMX9MOs5pNZOFskhRggzQEFdndExYsUSwx4WNR4FtNw5fCuN-ck1lUsUl9fMnnQYx0XRlvbIEDh4CcTFBPLqllG67QdFOpD3RPc7KYentEe2fHFUcRf9XQReeszQhWoavbhctb7RLNxG7Bcxt5ujuk0LXgUbDRYkwABpZNqLjylL7AVGfHZ5eyZd-HEvEU_4zqNIF9qb2BE2w4ObUK6IxR3PyTaqYbH-MLahCSdPaX54YLlr_BzZNVxIRynt6fopOnJApUFH9pVdmGUQ7c020FeduCpIszKrsIpo0sUiyBvtbdNTwJq47lJ_zPKw373zGpfl1HnPvTMIC5OZV5-bT8X3IrpJIAMTXFb6IJvNcS9HTFv1c9oJCzcBIbBRvtOswIW3_4uOcgqpeWxiapVP_M0vTRAkWt5Xq4IyJCDDO77bMuqAIBzHEXz0O
+www.tiktok.com	FALSE	/	FALSE	1758447671	last_login_method	google
+.www.tiktok.com	TRUE	/	FALSE	0	passport_fe_beating_status	true
+.www.tiktok.com	TRUE	/	TRUE	1751103701	perf_feed_cache	{%22expireTimestamp%22:1750842000000%2C%22itemIds%22:[%227493502946521402642%22%2C%227487523295592484151%22%2C%227493767775618452744%22]}
+www.tiktok.com	FALSE	/	FALSE	1758447703	msToken	v2OpY8y0qcPdp32eD8KIzNpAPCoZ6UOoCQO0YDCaTJqQOOcKKSWeiCNZhkKHjRk5TPIcZIgHbcCIvxxEjgqg8Vg9ow9OX731pb_3NxL8XZwTbITrBDxEulcu56gpUlNXW2nGODzuajI=
